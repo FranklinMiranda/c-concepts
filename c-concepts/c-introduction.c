@@ -22,6 +22,9 @@ int main() {
 
 	float sum = x + b;
 
+
+
+
 	printf("\nThis letter is %c and this number is %f \n\n", c, sum);
 
 	printf("%.20lf", xz);

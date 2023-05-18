@@ -18,5 +18,8 @@
     <ClCompile Include="c-introduction.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="typeConversion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
